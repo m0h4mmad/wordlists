@@ -1,0 +1,15 @@
+https://charts.codefresh.io
+https://canary-rollout2.rnd.sandbox.codefresh.io
+https://chartmuseum-dev.codefresh.io
+https://codefresh.io
+https://cli.codefresh.io
+https://ap-poc-demo-1.sales-dev.codefresh.io
+https://community.codefresh.io
+http://app.codefresh.io
+http://blog.codefresh.io
+https://gke-us-west2-runtime.sales-dev.codefresh.io
+https://github-internal.codefresh.io
+https://hs.codefresh.io
+https://postmaster@codefresh.io
+https://roadmap.codefresh.io
+https://status.codefresh.io
